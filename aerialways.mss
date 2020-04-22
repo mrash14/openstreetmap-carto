@@ -6,7 +6,7 @@
       line/line-width: 1;
       line/line-join: round;
       line/line-cap: round;
-      line/line-color: #808080;
+      line/line-color: rgba(0, 0, 0, 0);
 
       dash/line-width: 3;
       dash/line-join: round;
@@ -39,7 +39,7 @@
       line/line-width: 1;
       line/line-join: round;
       line/line-cap: round;
-      line/line-color: #808080;
+      line/line-color: rgba(0, 0, 0, 0);
 
       dash/line-width: 3.5;
       dash/line-join: round;
@@ -77,7 +77,7 @@
       line/line-width: 1;
       line/line-join: round;
       line/line-cap: round;
-      line/line-color: #808080;
+      line/line-color: rgba(0, 0, 0, 0);
 
       dash/line-width: 4;
       dash/line-join: round;
